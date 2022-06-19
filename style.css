@@ -1,0 +1,70 @@
+body{
+    background-color:#34656d;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Ruslan Display', cursive;
+    color: #fffbdf;
+}
+.g-box{
+    background-color: green;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+    border-color: black;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: 500px;
+    width: 200px;
+}
+.r-box{
+    background-color: red;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+    border-color: black;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 500px;
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+    width: 200px;
+
+}
+.b-box{
+    background-color: blue;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+    border-color: black;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 500px;
+    position: relative;
+    left: 250px;
+    bottom: 200px;
+    width: 200px;
+
+}
+
+.y-box{
+    background-color: yellow;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+    border-color: black;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 500px;
+    position: relative;
+    /* left: 4px; */
+    bottom: 470px;
+    width: 200px;
+}
